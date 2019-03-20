@@ -1,0 +1,10 @@
+body {
+    font-family: 'Bevan', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    padding: 30px;
+   .navbar {
+    font-family: 'Bevan', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;}
+}
+#grad{
+        height: 180px;
+        background: linear-gradient(to right, #FACE42,rgb(253, 143, 32));        
+}
